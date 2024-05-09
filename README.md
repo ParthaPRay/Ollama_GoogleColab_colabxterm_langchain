@@ -22,3 +22,6 @@
 
 6. Use the llm.invoke() method to prompt the model and receive its response.
 
+
+
+Reference: https://www.youtube.com/watch?v=LN9rlGNaXUA&ab_channel=AkashDawari
